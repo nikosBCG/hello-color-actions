@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Cloud_curious"
+		},
+		{
+			"name": "pacMan",
+			"path": "../pacMan"
+		},
+		{
+			"name": "reactionGame",
+			"path": "../reactionGame"
+		}
+	],
+	"settings": {}
+}
